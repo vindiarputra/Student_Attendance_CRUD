@@ -43,11 +43,13 @@ INSERT INTO attendance (student_name, status, date) VALUES
 ## 4. Buat Backend API
 
 ### Langkah-langkah:
-Unduh file koneksi.php dari folder backend di repository ini, lalu ikuti langkah-langkah berikut:
+
+Unduh file koneksi.php dari folder backend di repository ini, kemudian ikuti langkah-langkah berikut:
 
 1. Pindahkan file tersebut ke folder xampp\htdocs di komputer Anda.
-2. Buat folder baru dengan nama school_attendance di dalam xampp\htdocs.
+2. Buat folder baru bernama school_attendance di dalam xampp\htdocs.
 3. Letakkan file koneksi.php di dalam folder school_attendance untuk menghubungkan proyek ke database.
+4. Jalankan XAMPP, lalu aktifkan Apache dan MySQL.
 
 ---
 
