@@ -77,6 +77,9 @@ http://localhost:5173
 ```
 atau URL lain yang diberikan setelah server berjalan.
 
+<div align="center">
+    <img src="https://i.imgur.com/LhnPHyd.jpg" alt="Deskripsi Gambar" />
+</div>
 
 
 
