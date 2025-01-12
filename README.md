@@ -78,7 +78,7 @@ http://localhost:5173
 atau URL lain yang diberikan setelah server berjalan.
 
 <div align="center">
-    <img src="https://i.imgur.com/LhnPHyd.jpg" alt="Deskripsi Gambar" />
+    <img src="https://res.cloudinary.com/dtatajpiw/image/upload/v1736693254/screencapture-localhost-5173-2025-01-12-21_34_06_e5fwxh.png" alt="Deskripsi Gambar" />
 </div>
 
 
