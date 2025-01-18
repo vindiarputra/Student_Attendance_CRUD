@@ -20,9 +20,11 @@ Buat tabel `attendance` di dalam database `school_attendance` untuk menyimpan da
 CREATE TABLE attendance (
     id INT AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(100) NOT NULL,
-    status ENUM('Present', 'Absent', 'Late') NOT NULL,
-    date DATE NOT NULL
+    status ENUM('Present', 'Absent', 'Late', 'Sick') NOT NULL,
+    date DATE NOT NULL,
+    proof_image VARCHAR(255)
 );
+
 ```
 
 ### 3. Tambahkan Data Dummy (Opsional)
